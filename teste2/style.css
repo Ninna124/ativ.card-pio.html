@@ -1,0 +1,198 @@
+body, html {
+  height: 100%;
+width:100%;
+text-align: center;
+align-items: center;
+margin: 0;
+}
+.bg  {
+  background-image: url("img/fundo-papel.jpg") ;
+background-repeat: repeat-y ;
+background-size: cover ;
+width: 85%;
+height:100%;
+padding-left: 60px;
+padding-right: 60px;
+
+}
+.bg2{
+  background-image: url("img/lateraledit.jpg");
+  background-size: 151px 3000px ;
+  
+  background-position: left ;
+  
+  align-items: center;
+  text-align: center;
+
+}
+
+.kanashiro{
+border: 1px solid;
+border-collapse: collapse;
+border-radius: 8px;
+
+font-family: Arial, Helvetica, sans-serif;
+background-color: deeppink;
+color: rgb(233, 233, 233);
+
+
+
+}
+.amarelo{
+color: gold;
+
+position: relative;
+bottom: 20px;
+text-shadow: 0 0 7px #000000
+
+}
+.branco{
+position: relative;
+bottom: 20px;
+text-shadow: 0 0 7px #000000
+
+}
+.segundario{
+  font-family: 'xilosa_';
+  color: white;
+  font-size: 50px;
+  text-shadow: 0 0 10px #000000
+
+}
+
+
+div{
+text-align: center;
+
+position: relative;
+left: 65px;
+width: 600px;
+height: 130px;
+font-size:20px;
+
+}
+
+
+
+
+
+.bon{
+  border: 1px solid;
+border-collapse: collapse;
+border-radius: 8px;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+background-color: peru;
+color: rgb(233, 233, 233);
+
+}
+.cactus{
+  border: 1px solid;
+border-collapse: collapse;
+border-radius: 8px;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+background-color: rgb(255, 208, 0);
+color: rgb(243, 243, 243);
+}
+.WM {
+  border: 1px solid;
+border-collapse: collapse;
+border-radius: 8px;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+background-color:rgb(30, 143, 255);
+color: rgb(233, 233, 233);
+}
+.tiajo{
+  border: 1px solid;
+  border-collapse: collapse;
+  border-radius: 8px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: mediumseagreen;
+  color: rgb(233, 233, 233);
+}
+.vovo{
+  border: 1px solid;
+  border-collapse: collapse;
+  border-radius: 8px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color:deeppink;
+  color: rgb(233, 233, 233);
+}
+.sunshine{
+  border: 1px solid;
+  border-collapse: collapse;
+  border-radius: 8px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color:peru;
+  color: rgb(233, 233, 233);
+}
+.tempero{
+  border: 1px solid;
+  border-collapse: collapse;
+  border-radius: 8px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: mediumseagreen;
+  color: rgb(233, 233, 233);
+
+}
+.magestic{
+  border: 1px solid;
+border-collapse: collapse;
+border-radius: 8px;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+background-color:rgb(30, 143, 255);
+ color: rgb(233, 233, 233);
+}
+.mineiras{
+  border: 1px solid;
+  border-collapse: collapse;
+  border-radius: 8px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(255, 208, 0);
+  color: rgb(243, 243, 243);
+}
+.florida{
+  border: 1px solid;
+  border-collapse: collapse;
+  border-radius: 8px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color:deeppink;
+  color: rgb(233, 233, 233);
+}
+.grill{
+  border: 1px solid;
+  border-collapse: collapse;
+  border-radius: 8px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: mediumseagreen;
+  color: rgb(233, 233, 233);
+
+}
+.street{
+  border: 1px solid;
+  border-collapse: collapse;
+  border-radius: 8px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(255, 208, 0);
+  color: rgb(243, 243, 243);
+}
+.bistro{
+  border: 1px solid;
+  border-collapse: collapse;
+  border-radius: 8px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color:peru;
+  color: rgb(233, 233, 233);
+}
